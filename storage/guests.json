@@ -1,0 +1,346 @@
+{
+    "FD5222": {
+        "greeting": "Hola",
+        "special_guest": "Francisco Suárez y Dolivett Arias",
+        "union": "hemos reservado sus lugares y el de sus acompañantes:",
+        "companions": ["Nicole Suárez", "Orlando Suárez"],
+        "companions_limit": 2,
+        "table": "Mesa 2"
+    },
+    "YW9876": {
+        "greeting": "Hola",
+        "special_guest": "Yunnia Hernández y Wilmor Barahona",
+        "union": "hemos reservado sus lugares y el de sus acompañantes:",
+        "companions": ["Yulissa H.", "Wilmor Jr."],
+        "companions_limit": 4,
+        "table": "Mesa 2"
+    },
+    "NH6526": {
+        "greeting": "Hola",
+        "special_guest": "Nubia Hernández",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 2"
+    },
+    "AA4826": {
+        "greeting": "Hola",
+        "special_guest": "Auxiliadora Arias",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 2"
+    },
+    "FA9874": {
+        "greeting": "Hola",
+        "special_guest": "Francis Aguilera",
+        "union": "y",
+        "companions": ["Esposo"],
+        "companions_limit": 2,
+        "table": "Mesa 2"
+    },
+    "KF8746": {
+        "greeting": "Hola",
+        "special_guest": "Karla Suárez",
+        "union": "hemos reservado tu lugar y el de tus acompañantes:",
+        "companions": ["Franklin Córdoba", "Sara Córdoba", "Steven Córdoba"],
+        "companions_limit": 4,
+        "table": "Mesa 2"
+    },
+    "TS6316": {
+        "greeting": "Hola",
+        "special_guest": "Teresa Suárez",
+        "union": "hemos reservado tu lugar y el de tus acompañantes:",
+        "companions": ["Gladys Martinez", "Carlos Suárez"],
+        "companions_limit": 3,
+        "table": "Mesa 2"
+    },
+    "EV2570": {
+        "greeting": "Hola",
+        "special_guest": "Heinie Vega",
+        "union": "hemos reservado tu lugar y el de tu acompañante:",
+        "companions": ["Astrid Vega"],
+        "companions_limit": 2,
+        "table": "Mesa 2"
+    },
+    "CR7101": {
+        "greeting": "Hola",
+        "special_guest": "Pr. César Casco",
+        "union": "y esposa",
+        "companions": ["Pra. Ruth Osorio"],
+        "companions_limit": 2,
+        "table": "Mesa 4"
+    },
+    "MA1201": {
+        "greeting": "Hola",
+        "special_guest": "Pr. Marlon Guerrero",
+        "union": "y esposa",
+        "companions": ["Angelita de Guerrero"],
+        "companions_limit": 2,
+        "table": "Mesa 4"
+    },
+    "HD4221": {
+        "greeting": "Hola",
+        "special_guest": "Henry González y Doris Marín",
+        "union": "hemos reservado sus lugares y el de su acompañante:",
+        "companions": ["Saraí González"],
+        "companions_limit": 3,
+        "table": "Mesa 4"
+    },
+    "DH2231": {
+        "greeting": "Hola",
+        "special_guest": "Henry Dávila",
+        "union": "y Esposa",
+        "companions": ["Dixa Centeno"],
+        "companions_limit": 3,
+        "table": "Mesa 4"
+    },
+    "FM7900": {
+        "greeting": "Hola",
+        "special_guest": "Frania Mercado",
+        "union": "hemos reservado tu lugar y el de tus acompañantes:",
+        "companions": ["Xiomara Mercado", "Sharon Lanuza"],
+        "companions_limit": 3,
+        "table": "Mesa 5"
+    },
+    "YD4265": {
+        "greeting": "Hola",
+        "special_guest": "Yamileth Arias",
+        "union": "hemos reservado tu lugar y el de tus acompañantes:",
+        "companions": ["Dennis Obando", "Dara Obando"],
+        "companions_limit": 3,
+        "table": "Mesa 5"
+    },
+    "NS5862": {
+        "greeting": "Hola",
+        "special_guest": "Nidia Suárez",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 5"
+    },
+    "CY0028": {
+        "greeting": "Hola",
+        "special_guest": "César Suárez",
+        "union": "y esposa",
+        "companions": ["Yesennia Mejía"],
+        "companions_limit": 2,
+        "table": "Mesa 5"
+    },
+    "OA7812": {
+        "greeting": "Hola",
+        "special_guest": "Olinto Arias",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 6"
+    },
+    "CA6523": {
+        "greeting": "Hola",
+        "special_guest": "Carlos Arias",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 6"
+    },
+    "AK5242": {
+        "greeting": "Hola",
+        "special_guest": "Anibal Arias",
+        "union": "y esposa",
+        "companions": ["Karla Hurtado"],
+        "companions_limit": 2,
+        "table": "Mesa 6"
+    },
+    "FM9625": {
+        "greeting": "Hola",
+        "special_guest": "Fernando Arias",
+        "union": "y esposa",
+        "companions": ["Martha de Arias"],
+        "companions_limit": 2,
+        "table": "Mesa 6"
+    },
+    "AS2356": {
+        "greeting": "Hola",
+        "special_guest": "Ariel Suárez",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 6"
+    },
+    "YP4852": {
+        "greeting": "Hola",
+        "special_guest": "Yeri Pilarte",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 7"
+    },
+    "LY2644": {
+        "greeting": "Hola",
+        "special_guest": "Lenon Arias",
+        "union": "y esposa",
+        "companions": ["Yubel Urbina"],
+        "companions_limit": 1,
+        "table": "Mesa 7"
+    },
+    "LC0025": {
+        "greeting": "Hola",
+        "special_guest": "Leslie Arias Y César Suazo",
+        "union": "hemos reservado sus lugares y el de sus acompañantes:",
+        "companions": ["Octavio Romero", "Alana Suazo"],
+        "companions_limit": 3,
+        "table": "Mesa 7"
+    },
+    "RA5263": {
+        "greeting": "Hola",
+        "special_guest": "Rosita Arias",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 7"
+    },
+    "BA4856": {
+        "greeting": "Hola",
+        "special_guest": "Bertha Arias",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 7"
+    },
+    "JA0126": {
+        "greeting": "Hola",
+        "special_guest": "José Ruiz Y Ana Herrera",
+        "union": "hemos reservado sus lugares y el de su acompañante:",
+        "companions": ["Elena Cruz"],
+        "companions_limit": 3,
+        "table": "Mesa 8"
+    },
+    "EH0035": {
+        "greeting": "Hola",
+        "special_guest": "Ericka Herrera",
+        "union": "hemos reservado tu lugar y el de tus acompañantes:",
+        "companions": ["Isaac Luna", "Auralila Canales"],
+        "companions_limit": 3,
+        "table": "Mesa 8"
+    },
+    "MH5562": {
+        "greeting": "Hola",
+        "special_guest": "Maribel Herrera y Farchi Flores",
+        "union": "hemos reservado sus lugares y el de su acompañante:",
+        "companions": ["Rashel Flores"],
+        "companions_limit": 3,
+        "table": "Mesa 8"
+    },
+    "AR2026": {
+        "greeting": "Hola",
+        "special_guest": "Alejandro Ruiz",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 8"
+    },
+    "HR8956": {
+        "greeting": "Hola",
+        "special_guest": "Reyna Herrera y Gerald Parrales",
+        "union": "hemos reservado sus lugares y el de su acompañante:",
+        "companions": ["Aliesky Parrales"],
+        "companions_limit": 3,
+        "table": "Mesa 9"
+    },
+    "VI3356": {
+        "greeting": "Hola",
+        "special_guest": "Víctor Herrera",
+        "union": "y esposa",
+        "companions": ["Ileana Martínez"],
+        "companions_limit": 2,
+        "table": "Mesa 9"
+    },
+    "VA1285": {
+        "greeting": "Hola",
+        "special_guest": "Virgilio López",
+        "union": "y esposa",
+        "companions": ["Auxiliadora Membreño"],
+        "companions_limit": 2,
+        "table": "Mesa 9"
+    },
+    "SC0887": {
+        "greeting": "Hola",
+        "special_guest": "Steven Castro",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 10"
+    },
+    "RA8892": {
+        "greeting": "Hola",
+        "special_guest": "Rodrigo Arauz",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 10"
+    },
+    "DJ0089": {
+        "greeting": "Hola",
+        "special_guest": "Daniela Junieth",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 10"
+    },
+    "ICR506": {
+        "greeting": "Hola",
+        "special_guest": "Isaac Campos",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 10"
+    },
+    "AL6058": {
+        "greeting": "Hola",
+        "special_guest": "Ashley Lanuza",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 11"
+    },
+    "JT9632": {
+        "greeting": "Hola",
+        "special_guest": "Jazmín Tipa",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 11"
+    },
+    "KR2258": {
+        "greeting": "Hola",
+        "special_guest": "Keyling Rocha",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 11"
+    },
+    "JS6623": {
+        "greeting": "Hola",
+        "special_guest": "Jasser Suárez",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 11"
+    },
+    "BR1352": {
+        "greeting": "Hola",
+        "special_guest": "Bayardo Ruiz",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 12"
+    },
+    "VR8895": {
+        "greeting": "Hola",
+        "special_guest": "Vanessa Ruiz",
+        "union": "hemos reservado tu lugar y el de tu acompañante:",
+        "companions": ["Nicole Gomez"],
+        "companions_limit": 2,
+        "table": "Mesa 12"
+    }
+}
