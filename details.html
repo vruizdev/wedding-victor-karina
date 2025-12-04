@@ -66,7 +66,7 @@
                 <p class="secondLine"> <span id="greeting"></span> <strong id="guestName"></strong>,
                     <span id="union"></span>
                     <strong id="guestCompanions"></strong>. <br>
-                    Será un honor recibirlos en nuestra boda.
+                    <span id="finally"></span>
                 </p>
                 <p class="thirdLine">
                     <!-- Tu número de pases es: <strong id="guestLimit"></strong> -->
@@ -104,6 +104,12 @@
         <script>
 			document.addEventListener('DOMContentLoaded', () => {
 				const guest = JSON.parse(sessionStorage.getItem("guestData"));
+
+				if (guest.companions.length === 0) {
+					document.getElementById("finally").innerText = "Será un honor recibirte en nuestra boda.";
+				} else {
+					document.getElementById("finally").innerText = "Será un honor recibirlos en nuestra boda.";
+				}
 
 				if (guest) {                
 					document.getElementById("greeting").innerText = guest.greeting;

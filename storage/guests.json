@@ -10,14 +10,22 @@
     "YW9876": {
         "greeting": "Hola",
         "special_guest": "Yunnia Hernández y Wilmor Barahona",
-        "union": "hemos reservado sus lugares y el de sus acompañantes:",
-        "companions": ["Yulissa H.", "Wilmor Jr."],
+        "union": "hemos reservado sus lugares y el de su acompañante:",
+        "companions": ["Wilmor Jr."],
         "companions_limit": 4,
+        "table": "Mesa 2"
+    },
+    "YH2664": {
+        "greeting": "Hola",
+        "special_guest": "Yulissa Hernández",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
         "table": "Mesa 2"
     },
     "NH6526": {
         "greeting": "Hola",
-        "special_guest": "Nubia Hernández",
+        "special_guest": "Nubia Guillén",
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
