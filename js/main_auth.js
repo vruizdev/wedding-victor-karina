@@ -3,7 +3,7 @@ document.getElementById('continueBtn').addEventListener('click', async function(
 
     const codeEl = document.getElementById('guestCode');
     const errorEl = document.getElementById('errorMsg');
-    const code = (codeEl.value || '').trim();
+    const code = (codeEl.value?.toUpperCase() || '').trim();
 
     errorEl.textContent = '';
 

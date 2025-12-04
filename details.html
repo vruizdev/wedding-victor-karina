@@ -102,16 +102,18 @@
 		<script src="js/main_auth.js"></script>
 
         <script>
-            const guest = JSON.parse(sessionStorage.getItem("guestData"));
+			document.addEventListener('DOMContentLoaded', () => {
+				const guest = JSON.parse(sessionStorage.getItem("guestData"));
 
-            if (guest) {                
-                document.getElementById("greeting").innerText = guest.greeting;
-                document.getElementById("guestName").innerText = guest.special_guest;
-                document.getElementById("union").innerText = guest.union;
-                document.getElementById("guestCompanions").innerText = guest.companions.join(", ");
-                document.getElementById("guestTable").innerText = guest.table;
-                document.getElementById("guestLimit").innerText = guest.companions_limit;
-            }
+				if (guest) {                
+					document.getElementById("greeting").innerText = guest.greeting;
+					document.getElementById("guestName").innerText = guest.special_guest;
+					document.getElementById("union").innerText = guest.union;
+					document.getElementById("guestCompanions").innerText = guest.companions.join(", ");
+					document.getElementById("guestTable").innerText = guest.table;
+					// document.getElementById("guestLimit").innerText = guest.companions_limit;
+				}
+			});
         </script>
 	</body>
 </html>

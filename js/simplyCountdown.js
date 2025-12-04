@@ -13,8 +13,6 @@
 (function (exports) {
     'use strict';
 
-    console.log("Se carga bien el archivo simplyCountdown.js");
-
     var // functions
         extend,
         createElements,
