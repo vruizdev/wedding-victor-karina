@@ -65,7 +65,7 @@
     },
     "EV2570": {
         "greeting": "Hola",
-        "special_guest": "Heinie Vega",
+        "special_guest": "Einie Vega",
         "union": "hemos reservado tu lugar y el de tu acompañante:",
         "companions": ["Astrid Vega"],
         "companions_limit": 2,
@@ -95,7 +95,7 @@
         "companions_limit": 3,
         "table": "Mesa 4"
     },
-    "DH2231": {
+    "HD2231": {
         "greeting": "Hola",
         "special_guest": "Henry Dávila",
         "union": "y Esposa",
@@ -193,10 +193,10 @@
     },
     "LC0025": {
         "greeting": "Hola",
-        "special_guest": "Leslie Arias Y César Suazo",
-        "union": "hemos reservado sus lugares y el de sus acompañantes:",
-        "companions": ["Octavio Romero", "Alana Suazo"],
-        "companions_limit": 3,
+        "special_guest": "Leslie Arias",
+        "union": "y esposo",
+        "companions": ["César Suazo"],
+        "companions_limit": 2,
         "table": "Mesa 7"
     },
     "RA5263": {
@@ -287,9 +287,9 @@
         "companions_limit": 1,
         "table": "Mesa 10"
     },
-    "DJ0089": {
+    "DP0089": {
         "greeting": "Hola",
-        "special_guest": "Daniela Junieth",
+        "special_guest": "Daniela Pravia",
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
