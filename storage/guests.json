@@ -188,15 +188,6 @@
         "table": "Mesa 6",
         "status": "Completado"
     },
-    "SM2356": {
-        "greeting": "Hola",
-        "special_guest": "Sherry Martinez",
-        "union": "hemos reservado tu lugar",
-        "companions": [],
-        "companions_limit": 1,
-        "table": "Mesa 6",
-        "status": "Completado"
-    },
     "YP4852": {
         "greeting": "Hola",
         "special_guest": "Yeri Pilarte",
@@ -371,6 +362,15 @@
     "JS6623": {
         "greeting": "Hola",
         "special_guest": "Jasser Suárez",
+        "union": "hemos reservado tu lugar",
+        "companions": [],
+        "companions_limit": 1,
+        "table": "Mesa 11",
+        "status": "Completado"
+    },
+    "SM2356": {
+        "greeting": "Hola",
+        "special_guest": "Sherry Martinez",
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
