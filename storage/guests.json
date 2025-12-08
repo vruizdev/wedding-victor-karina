@@ -5,7 +5,8 @@
         "union": "hemos reservado sus lugares y el de sus acompañantes:",
         "companions": ["Nicole Suárez", "Orlando Suárez"],
         "companions_limit": 2,
-        "table": "Mesa 2"
+        "table": "Mesa 2",
+        "status": "Completado"
     },
     "YW9876": {
         "greeting": "Hola",
@@ -13,7 +14,8 @@
         "union": "hemos reservado sus lugares y el de su acompañante:",
         "companions": ["Wilmor Jr."],
         "companions_limit": 4,
-        "table": "Mesa 2"
+        "table": "Mesa 2",
+        "status": "Completado"
     },
     "YH2664": {
         "greeting": "Hola",
@@ -21,7 +23,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 2"
+        "table": "Mesa 2",
+        "status": "Completado"
     },
     "NH6526": {
         "greeting": "Hola",
@@ -29,7 +32,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 2"
+        "table": "Mesa 2",
+        "status": "Completado"
     },
     "AA4826": {
         "greeting": "Hola",
@@ -37,7 +41,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 2"
+        "table": "Mesa 2",
+        "status": "Completado"
     },
     "FA9874": {
         "greeting": "Hola",
@@ -45,7 +50,8 @@
         "union": "y",
         "companions": ["Esposo"],
         "companions_limit": 2,
-        "table": "Mesa 2"
+        "table": "Mesa 2",
+        "status": "Completado"
     },
     "KF8746": {
         "greeting": "Hola",
@@ -53,7 +59,8 @@
         "union": "hemos reservado tu lugar y el de tus acompañantes:",
         "companions": ["Franklin Córdoba", "Sara Córdoba", "Steven Córdoba"],
         "companions_limit": 4,
-        "table": "Mesa 2"
+        "table": "Mesa 2",
+        "status": "Completado"
     },
     "TS6316": {
         "greeting": "Hola",
@@ -61,7 +68,8 @@
         "union": "hemos reservado tu lugar y el de tus acompañantes:",
         "companions": ["Gladys Martinez", "Carlos Suárez"],
         "companions_limit": 3,
-        "table": "Mesa 2"
+        "table": "Mesa 2",
+        "status": "Completado"
     },
     "EV2570": {
         "greeting": "Hola",
@@ -69,7 +77,8 @@
         "union": "hemos reservado tu lugar y el de tu acompañante:",
         "companions": ["Astrid Vega"],
         "companions_limit": 2,
-        "table": "Mesa 2"
+        "table": "Mesa 2",
+        "status": "Completado"
     },
     "CR7101": {
         "greeting": "Hola",
@@ -77,7 +86,8 @@
         "union": "y esposa",
         "companions": ["Pra. Ruth Osorio"],
         "companions_limit": 2,
-        "table": "Mesa 4"
+        "table": "Mesa 4",
+        "status": "Completado"
     },
     "MA1201": {
         "greeting": "Hola",
@@ -85,7 +95,8 @@
         "union": "y esposa",
         "companions": ["Angelita de Guerrero"],
         "companions_limit": 2,
-        "table": "Mesa 4"
+        "table": "Mesa 4",
+        "status": "Completado"
     },
     "HD4221": {
         "greeting": "Hola",
@@ -93,7 +104,8 @@
         "union": "hemos reservado sus lugares y el de su acompañante:",
         "companions": ["Saraí González"],
         "companions_limit": 3,
-        "table": "Mesa 4"
+        "table": "Mesa 4",
+        "status": "Completado"
     },
     "HD2231": {
         "greeting": "Hola",
@@ -101,7 +113,8 @@
         "union": "y Esposa",
         "companions": ["Dixa Centeno"],
         "companions_limit": 3,
-        "table": "Mesa 4"
+        "table": "Mesa 4",
+        "status": "Completado"
     },
     "FM7900": {
         "greeting": "Hola",
@@ -109,7 +122,8 @@
         "union": "hemos reservado tu lugar y el de tus acompañantes:",
         "companions": ["Xiomara Mercado", "Sharon Lanuza"],
         "companions_limit": 3,
-        "table": "Mesa 5"
+        "table": "Mesa 5",
+        "status": "Completado"
     },
     "YD4265": {
         "greeting": "Hola",
@@ -117,7 +131,8 @@
         "union": "hemos reservado tu lugar y el de tus acompañantes:",
         "companions": ["Dennis Obando", "Dara Obando"],
         "companions_limit": 3,
-        "table": "Mesa 5"
+        "table": "Mesa 5",
+        "status": "Completado"
     },
     "NS5862": {
         "greeting": "Hola",
@@ -125,7 +140,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 5"
+        "table": "Mesa 5",
+        "status": "Completado"
     },
     "CY0028": {
         "greeting": "Hola",
@@ -133,7 +149,8 @@
         "union": "y esposa",
         "companions": ["Yesennia Mejía"],
         "companions_limit": 2,
-        "table": "Mesa 5"
+        "table": "Mesa 5",
+        "status": "Completado"
     },
     "OA7812": {
         "greeting": "Hola",
@@ -141,7 +158,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 6"
+        "table": "Mesa 6",
+        "status": "Completado"
     },
     "CA6523": {
         "greeting": "Hola",
@@ -149,7 +167,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 6"
+        "table": "Mesa 6",
+        "status": "Completado"
     },
     "AK5242": {
         "greeting": "Hola",
@@ -157,7 +176,8 @@
         "union": "y esposa",
         "companions": ["Karla Hurtado"],
         "companions_limit": 2,
-        "table": "Mesa 6"
+        "table": "Mesa 6",
+        "status": "Completado"
     },
     "FM9625": {
         "greeting": "Hola",
@@ -165,15 +185,17 @@
         "union": "y esposa",
         "companions": ["Martha de Arias"],
         "companions_limit": 2,
-        "table": "Mesa 6"
+        "table": "Mesa 6",
+        "status": "Completado"
     },
-    "AS2356": {
+    "SM2356": {
         "greeting": "Hola",
-        "special_guest": "Ariel Suárez",
+        "special_guest": "Sherry Martinez",
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 6"
+        "table": "Mesa 6",
+        "status": "Completado"
     },
     "YP4852": {
         "greeting": "Hola",
@@ -181,7 +203,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 7"
+        "table": "Mesa 7",
+        "status": "Completado"
     },
     "LY2644": {
         "greeting": "Hola",
@@ -189,7 +212,8 @@
         "union": "y esposa",
         "companions": ["Yubel Urbina"],
         "companions_limit": 1,
-        "table": "Mesa 7"
+        "table": "Mesa 7",
+        "status": "Completado"
     },
     "LC0025": {
         "greeting": "Hola",
@@ -197,7 +221,8 @@
         "union": "y esposo",
         "companions": ["César Suazo"],
         "companions_limit": 2,
-        "table": "Mesa 7"
+        "table": "Mesa 7",
+        "status": "Completado"
     },
     "RA5263": {
         "greeting": "Hola",
@@ -205,7 +230,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 7"
+        "table": "Mesa 7",
+        "status": "Completado"
     },
     "BA4856": {
         "greeting": "Hola",
@@ -213,7 +239,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 7"
+        "table": "Mesa 7",
+        "status": "Completado"
     },
     "JA0126": {
         "greeting": "Hola",
@@ -221,7 +248,8 @@
         "union": "hemos reservado sus lugares y el de su acompañante:",
         "companions": ["Elena Cruz"],
         "companions_limit": 3,
-        "table": "Mesa 8"
+        "table": "Mesa 8",
+        "status": "Completado"
     },
     "EH0035": {
         "greeting": "Hola",
@@ -229,7 +257,8 @@
         "union": "hemos reservado tu lugar y el de tus acompañantes:",
         "companions": ["Isaac Luna", "Auralila Canales"],
         "companions_limit": 3,
-        "table": "Mesa 8"
+        "table": "Mesa 8",
+        "status": "Completado"
     },
     "MH5562": {
         "greeting": "Hola",
@@ -237,7 +266,8 @@
         "union": "hemos reservado sus lugares y el de su acompañante:",
         "companions": ["Rashel Flores"],
         "companions_limit": 3,
-        "table": "Mesa 8"
+        "table": "Mesa 8",
+        "status": "Completado"
     },
     "AR2026": {
         "greeting": "Hola",
@@ -245,7 +275,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 8"
+        "table": "Mesa 8",
+        "status": "Completado"
     },
     "HR8956": {
         "greeting": "Hola",
@@ -253,7 +284,8 @@
         "union": "hemos reservado sus lugares y el de su acompañante:",
         "companions": ["Aliesky Parrales"],
         "companions_limit": 3,
-        "table": "Mesa 9"
+        "table": "Mesa 9",
+        "status": "Completado"
     },
     "VI3356": {
         "greeting": "Hola",
@@ -261,7 +293,8 @@
         "union": "y esposa",
         "companions": ["Ileana Martínez"],
         "companions_limit": 2,
-        "table": "Mesa 9"
+        "table": "Mesa 9",
+        "status": "Completado"
     },
     "VA1285": {
         "greeting": "Hola",
@@ -269,7 +302,8 @@
         "union": "y esposa",
         "companions": ["Auxiliadora Membreño"],
         "companions_limit": 2,
-        "table": "Mesa 9"
+        "table": "Mesa 9",
+        "status": "Completado"
     },
     "SC0887": {
         "greeting": "Hola",
@@ -277,7 +311,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 10"
+        "table": "Mesa 10",
+        "status": "Completado"
     },
     "RA8892": {
         "greeting": "Hola",
@@ -285,7 +320,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 10"
+        "table": "Mesa 10",
+        "status": "Completado"
     },
     "DP0089": {
         "greeting": "Hola",
@@ -293,7 +329,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 10"
+        "table": "Mesa 10",
+        "status": "Completado"
     },
     "ICR506": {
         "greeting": "Hola",
@@ -301,7 +338,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 10"
+        "table": "Mesa 10",
+        "status": "Completado"
     },
     "AL6058": {
         "greeting": "Hola",
@@ -309,7 +347,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 11"
+        "table": "Mesa 11",
+        "status": "Completado"
     },
     "JT9632": {
         "greeting": "Hola",
@@ -317,7 +356,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 11"
+        "table": "Mesa 11",
+        "status": "Completado"
     },
     "KR2258": {
         "greeting": "Hola",
@@ -325,7 +365,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 11"
+        "table": "Mesa 11",
+        "status": "Completado"
     },
     "JS6623": {
         "greeting": "Hola",
@@ -333,7 +374,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 11"
+        "table": "Mesa 11",
+        "status": "Completado"
     },
     "BR1352": {
         "greeting": "Hola",
@@ -341,7 +383,8 @@
         "union": "hemos reservado tu lugar",
         "companions": [],
         "companions_limit": 1,
-        "table": "Mesa 12"
+        "table": "Mesa 12",
+        "status": "Completado"
     },
     "VR8895": {
         "greeting": "Hola",
@@ -349,6 +392,7 @@
         "union": "hemos reservado tu lugar y el de tu acompañante:",
         "companions": ["Nicole Gomez"],
         "companions_limit": 2,
-        "table": "Mesa 12"
+        "table": "Mesa 12",
+        "status": "Completado"
     }
 }

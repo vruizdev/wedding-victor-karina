@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Lista de Invitados</title>
+
+        <!-- Bootstrap 3.3.5 -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' rel='stylesheet'>
+        <link href='https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js' rel='stylesheet'>
+        <link href='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js' rel='stylesheet'>
+        <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet'>
+
+        <style>
+            body {
+                padding: 20px;
+            }
+            table {
+                font-size: 13px;
+            }
+            th, td {
+                vertical-align: middle !important;
+            }
+        </style>
+    </head>
+    <body>
+
+    <div class="container">
+        <h2 class="text-center">Invitados</h2>
+        <hr>
+
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Nombre</th>
+                    <th>Mensaje</th>
+                    <th>Acompañantes</th>
+                    <th>Mesa</th>
+                    <th>Estado</th>
+                </tr>
+            </thead>
+            <tbody id="guest-table-body">
+                <!-- Filas generadas por JS -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        // Cargar el archivo guests.json
+        fetch("storage/guests.json")
+            .then(response => response.json())
+            .then(data => {
+                const tbody = document.getElementById("guest-table-body");
+
+                Object.keys(data).forEach(code => {
+                    const guest = data[code];
+                    
+                    const row = document.createElement("tr");
+
+                    row.innerHTML = `
+                        <td>${code}</td>
+                        <td>${guest.special_guest}</td>
+                        <td>${guest.union}</td>
+                        <td>${guest.companions.length > 0 ? guest.companions.join(", ") : "—"}</td>
+                        <td>${guest.table}</td>
+                        <td><label class="badge ${guest.status?.toUpperCase() === 'COMPLETADO' ? 'badge-success' : 'badge-danger'}">${guest.status}</label></td>
+                    `;
+
+                    tbody.appendChild(row);
+                });
+            })
+            .catch(err => {
+                console.error("No se pudo cargar guests.json", err);
+            });
+    </script>
+
+    </body>
+</html>
