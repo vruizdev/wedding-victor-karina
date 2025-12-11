@@ -244,8 +244,8 @@
     },
     "EH0035": {
         "greeting": "Hola",
-        "special_guest": "Ericka Herrera",
-        "union": "hemos reservado tu lugar y el de tus acompañantes:",
+        "special_guest": "Ericka Herrera y Javier Luna",
+        "union": "hemos reservado sus lugares y el de sus acompañantes:",
         "companions": ["Isaac Luna", "Auralila Canales"],
         "companions_limit": 3,
         "table": "Mesa 8",
@@ -391,6 +391,15 @@
         "special_guest": "Vanessa Ruiz",
         "union": "hemos reservado tu lugar y el de tu acompañante:",
         "companions": ["Nicole Gomez"],
+        "companions_limit": 2,
+        "table": "Mesa 12",
+        "status": "Completado"
+    },
+    "RL5682": {
+        "greeting": "Hola",
+        "special_guest": "Rebeca Luna",
+        "union": "y esposo",
+        "companions": ["Junio Brenes"],
         "companions_limit": 2,
         "table": "Mesa 12",
         "status": "Completado"
