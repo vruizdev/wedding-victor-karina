@@ -403,5 +403,14 @@
         "companions_limit": 2,
         "table": "Mesa 12",
         "status": "Completado"
+    },
+    "AA2546": {
+        "greeting": "Hola",
+        "special_guest": "Anibal Ernesto Arias",
+        "union": "y",
+        "companions": ["esposa"],
+        "companions_limit": 2,
+        "table": "Mesa 6",
+        "status": "Completado"
     }
 }
